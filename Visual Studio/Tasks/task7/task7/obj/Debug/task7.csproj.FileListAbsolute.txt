@@ -1,0 +1,8 @@
+C:\Users\User1\Desktop\task7\task7\bin\Debug\task7.exe.config
+C:\Users\User1\Desktop\task7\task7\bin\Debug\task7.exe
+C:\Users\User1\Desktop\task7\task7\bin\Debug\task7.pdb
+C:\Users\User1\Desktop\task7\task7\obj\Debug\task7.csproj.AssemblyReference.cache
+C:\Users\User1\Desktop\task7\task7\obj\Debug\task7.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\task7\task7\obj\Debug\task7.exe
+C:\Users\User1\Desktop\task7\task7\obj\Debug\task7.pdb
+C:\Users\User1\Desktop\task7\task7\obj\Debug\task7.exe.config
